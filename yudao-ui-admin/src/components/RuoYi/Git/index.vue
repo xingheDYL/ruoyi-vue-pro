@@ -6,10 +6,10 @@
 
 <script>
 export default {
-  name: 'YudaoGit',
+  name: 'XingHeGit',
   data() {
     return {
-      url: 'https://github.com/YunaiV/ruoyi-vue-pro'
+      url: 'https://github.com/xingheDYL/ruoyi-vue-pro'
     }
   },
   methods: {

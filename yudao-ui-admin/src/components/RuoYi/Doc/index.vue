@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'YudaoDoc',
+  name: 'XingHeDoc',
   data() {
     return {
       url: 'https://doc.iocoder.cn/'
